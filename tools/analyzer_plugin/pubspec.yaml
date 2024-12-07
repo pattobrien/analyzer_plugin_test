@@ -1,0 +1,4 @@
+name: loader
+
+environment:
+  sdk: ^3.5.0
